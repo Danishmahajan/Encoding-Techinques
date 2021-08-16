@@ -4,7 +4,7 @@
 * <b>Feature Encoding is used for the transformation of a categorical feature into a numerical variable. Most of the ML algorithms cannot handle categorical variables and hence it is important to do feature encoding .</b>
 
 
-* there are three kinds of categorical features-
+* <b>There are three kinds of categorical features-</b>
 
   ><b>Ordinal :</b> The categories have an inherent order <br>
   ><b>Nominal :</b> The categories do not have an inherent order <br>
@@ -12,13 +12,13 @@
 
 
 ### Types Of Encoding :
-#### Nominal Encoding :
-* ONE HOT ENCODING
-* MEAN ENCODING
-* COUNT OR FREQUENCY ENCODING
-* PROBABILITY RATIO ENCODING
+#### NOMINAL ENCODING:
+* One Hot Encoding
+* Mean Encoding
+* Count OR Frequency Encoding
+* Probability Ratio Encoding
 <hr>
 
-#### Ordinal Encoding :
-* LABEL ENCODING
-* TARGET GUIDED ENCODING
+#### ORDINAL ENCODING:
+* Label Encoding
+* Target Guided Encoding
