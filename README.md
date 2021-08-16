@@ -12,4 +12,12 @@
 
 
 ### Types Of Encoding :
-##### Nominal Encoding : 
+#### Nominal Encoding :
+* ONE HOT ENCODING
+* MEAN ENCODING
+* COUNT OR FREQUENCY ENCODING
+* PROBABILITY RATIO ENCODING
+<hr>
+#### Ordinal Encoding :
+* LABEL ENCODING
+* TARGET GUIDED ENCODING
