@@ -11,5 +11,5 @@
   ><b>Binary :</b> The categories in the form of either/or . FOR EXAMPLE: Yes/No type of data
 
 
-* Types Of Encoding :
-#### Nominal Encoding : 
+### Types Of Encoding :
+##### Nominal Encoding : 
