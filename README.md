@@ -2,5 +2,4 @@
 
 ### Why we use Encoding??<br>
 
-<b>Most machine learning algorithms and deep neural networks require numerical inputs. This means that if we have categorical data, we must first encode it to numbers in order to build models that actually work.
-The goal of categorical encoding is to produce variables we can use to train machine learning models and build predictive features from categories.</b>
+<b>Feature Encoding is used for the transformation of a categorical feature into a numerical variable. Most of the ML algorithms cannot handle categorical variables and hence it is important to do feature encoding. There are many encoding techniques used for feature engineering :</b>
