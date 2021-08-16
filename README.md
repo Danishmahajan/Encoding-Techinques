@@ -1,5 +1,5 @@
 # Encoding-Techinques
-<br>
+
 # Why we use Encoding??<br>
 <br>
 <b>Most machine learning algorithms and deep neural networks require numerical inputs. This means that if we have categorical data, we must first encode it to numbers in order to build models that actually work.<br>
